@@ -1,3 +1,4 @@
+Cisco.WebexTeams
 Microsoft.EdgeWebView2Runtime
 DominikReichl.KeePass
 Microsoft.Office
