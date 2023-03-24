@@ -1,0 +1,7 @@
+Microsoft.EdgeWebView2Runtime
+DominikReichl.KeePass
+Microsoft.Office
+Microsoft.OneDrive
+Microsoft.Teams
+TeamViewer.TeamViewer
+TeamViewer.TeamViewer.Host
