@@ -6,3 +6,4 @@ Microsoft.OneDrive
 Microsoft.Teams
 TeamViewer.TeamViewer
 TeamViewer.TeamViewer.Host
+OBSProject.OBSStudio
