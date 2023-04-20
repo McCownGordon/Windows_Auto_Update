@@ -7,3 +7,8 @@ Microsoft.Teams
 TeamViewer.TeamViewer
 TeamViewer.TeamViewer.Host
 OBSProject.OBSStudio
+CoreyButler.NVMforWindows
+Git.Git
+Microsoft.DotNet.AspNetCore.6
+Microsoft.DotNet.AspNetCore.3_1
+Microsoft.Azure.FunctionsCoreTools
